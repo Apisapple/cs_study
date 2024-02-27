@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d97ad6f9ae07b949",
+        "id": "c1e4d1faa5269064",
         "type": "tabs",
         "children": [
           {
-            "id": "067ee518baf3cecb",
+            "id": "4008cfc6257df84e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Block Chain/HyperLedger Besu/Public Network.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Block Chain/HyperLedger Besu/Public Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Block Chain/HyperLedger Besu/Public Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Block Chain/HyperLedger Besu/Public Network.md"
+              }
             }
           },
           {
@@ -138,21 +146,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "067ee518baf3cecb",
+  "active": "4008cfc6257df84e",
   "lastOpenFiles": [
+    "Block Chain/HyperLedger Besu/Private Network.md",
+    "Block Chain/HyperLedger Besu/Public Network.md",
+    "().md",
+    "Block Chain/HyperLedger Besu/Hyperledger Besu Ethereum client.md",
+    "Pasted image 20240227103446.png",
     "README.md",
+    "Block Chain/HyperLedger Besu.md",
+    "Block Chain/Hyperledger Besu.md",
+    "Block Chain/HyperLedger Besu",
+    "무제 폴더",
+    "Block Chain",
+    "Design Pattern/결합도.md",
     "Design Pattern/응집도.md",
     "Design Pattern/IoC.md",
-    "Design Pattern/결합도.md",
     "Design Pattern",
     "Spring",
     "Algorithm"
