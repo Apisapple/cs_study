@@ -4,7 +4,7 @@ tags:
   - HyperLedgerBesu
 date: 2024-02-27
 ---
-`Hyperledger Besu`는 Apach 2.0 License로 개발되어 Java로 작성된 OpenSource ethreum client입니다. [[Public Network]] 과 [[Private Network]] 네트워크에서 실행이 됩니다.
+`Hyperledger Besu`는 Apach 2.0 License로 개발되어 Java로 작성된 OpenSource ethreum client입니다. [[Public Network]] 와 [[Private Network]] 에서 실행이 됩니다.
 
 Besu는 `Ethereum Network`에서 노드를 실행, 유지, 디버깅 및 모니터링을 하기 위해서 CLI 와 JSON-RPC API 를 제공합니다.
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Block Chain/HyperLedger Besu/Public Network.md",
+                "file": "Block Chain/HyperLedger Besu/Private Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Block Chain/HyperLedger Besu/Public Network.md",
+                "file": "Block Chain/HyperLedger Besu/Private Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Block Chain/HyperLedger Besu/Public Network.md",
+                "file": "Block Chain/HyperLedger Besu/Private Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Block Chain/HyperLedger Besu/Public Network.md"
+                "file": "Block Chain/HyperLedger Besu/Private Network.md"
               }
             }
           },
@@ -157,10 +157,10 @@
   },
   "active": "4008cfc6257df84e",
   "lastOpenFiles": [
-    "Block Chain/HyperLedger Besu/Private Network.md",
-    "Block Chain/HyperLedger Besu/Public Network.md",
-    "().md",
     "Block Chain/HyperLedger Besu/Hyperledger Besu Ethereum client.md",
+    "Block Chain/HyperLedger Besu/Public Network.md",
+    "Block Chain/HyperLedger Besu/Private Network.md",
+    "().md",
     "Pasted image 20240227103446.png",
     "README.md",
     "Block Chain/HyperLedger Besu.md",
