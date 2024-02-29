@@ -216,6 +216,40 @@
       ],
       "id": "fe535c00-b657-4992-bdee-a88224e172d9",
       "name": "HyperLedger Besu"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Block Chain/Solidity",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "dbb39a2d-f894-42c5-8862-848670b9fa0d",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "5a1a92c6-bf67-4053-808b-2cad11cbc828",
+      "name": "Solidity"
     }
   ],
   "archives": [],

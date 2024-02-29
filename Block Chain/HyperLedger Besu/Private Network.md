@@ -159,8 +159,6 @@ Local의 블록 데이터를 삭제하고자 할 경우, `besu/build/distributio
 Besu는 `eth_getTransactionCount`를 이용하여 다음 transaction의 nonce를 얻습니다. nonce의 값은 `transaction pool`에 있는 transaction에 의존하여 정해집니다.
 
 
-
-
 ### 합의 프로토콜
 
 - QBFT
