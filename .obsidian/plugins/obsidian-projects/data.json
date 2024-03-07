@@ -123,6 +123,9 @@
             "fieldConfig": {
               "path": {
                 "width": 460
+              },
+              "tags": {
+                "width": 309
               }
             },
             "orderFields": [
@@ -250,6 +253,40 @@
       ],
       "id": "5a1a92c6-bf67-4053-808b-2cad11cbc828",
       "name": "Solidity"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Block Chain/Ethereum",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "05184103-7609-4071-83df-bca405472be2",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "35a52901-9777-4ae0-b91e-28e7cf6e0302",
+      "name": "Ethereum"
     }
   ],
   "archives": [],
