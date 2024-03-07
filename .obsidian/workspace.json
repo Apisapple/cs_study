@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Block Chain/Ethereum/Ethereum.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Block Chain/Ethereum/Ethereum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Block Chain/Ethereum/Ethereum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Block Chain/Ethereum/Ethereum.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   },
   "active": "1365bdc0d2c2a2ad",
   "lastOpenFiles": [
+    "README.md",
     "Block Chain/Ethereum/Ethereum.md",
     "Pasted image 20240227103446.png",
     "Block Chain/Ethereum",
@@ -186,7 +187,6 @@
     "Block Chain/Solidity",
     "무제 폴더",
     "().md",
-    "README.md",
     "Block Chain/HyperLedger Besu.md",
     "Block Chain/Hyperledger Besu.md",
     "Block Chain/HyperLedger Besu",
