@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1bb397513ec166a0",
+        "id": "35538bd6fa32abc2",
         "type": "tabs",
         "children": [
           {
-            "id": "cc674805c349b3c4",
+            "id": "bcac536839fc6642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Block Chain/Ethereum/Full Nodes.md",
+                "file": "Block Chain/Ethereum/EVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Block Chain/Ethereum/Full Nodes.md",
+                "file": "Block Chain/Ethereum/EVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Block Chain/Ethereum/Full Nodes.md",
+                "file": "Block Chain/Ethereum/EVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Block Chain/Ethereum/Full Nodes.md"
+                "file": "Block Chain/Ethereum/EVM.md"
               }
             }
           },
@@ -155,11 +155,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "cc674805c349b3c4",
+  "active": "bcac536839fc6642",
   "lastOpenFiles": [
+    "Block Chain/Ethereum/Full Nodes.md",
+    "Block Chain/Ethereum/Ethereum.md",
+    "Block Chain/Ethereum/EVM.md",
     "Block Chain/Ethereum/Archive Nodes.pdf",
     "Block Chain/Ethereum/Archive Nodes.md",
-    "Block Chain/Ethereum/Full Nodes.md",
     "Block Chain/Ethereum/Ethereum Address.md",
     "Block Chain/HyperLedger Besu/Hyperledger Besu 동기화.md",
     "Block Chain/Ethereum/Account.md",
@@ -176,8 +178,6 @@
     "README.md",
     "Design Pattern/IoC.md",
     "Design Pattern/결합도.md",
-    "Block Chain/Ethereum/EVM.md",
-    "Block Chain/Ethereum/Ethereum.md",
     "Pasted image 20240227103446.png",
     "Block Chain/Ethereum",
     "Block Chain/HyperLedger Besu/Install Besu.md",
