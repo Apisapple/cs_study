@@ -29,3 +29,18 @@ date: 2024-03-08
 | 트랜잭션       | transaction 시작 가능 | 수신한 transaction에 대한 응답 가능               |
 | ETH 전송     | 다른 EOA와 통신만 가능    | trigger code를 활용하여 다른 Contract, EOA와 통신 |
 | KeyPair 소유 | Key Pair 소유       | Key Pair를 소유하지 않음                       |
+
+
+`Ethereum`은 다음 4가지 종류의 필드 값을 가지고 있습니다.
+
+- nonce
+	- 외부에서 보낸 `transactions`를 구분하고 각 개수를 세기 위한 값
+- balance
+	- 계정이 소유하고 있는 wei의 양
+- codeHash
+	- [[EVM]] 에 올라가 있는 account code의 hash값을 의미합니다.
+- storageRoot
+	- storage hash 라고도 불리고 있습니다.
+	- `keccack256` 알고리즘을 기본으로 하여 인코딩하여 저장합니다.
+	
+![accounts](https://ethereum.org/content/developers/docs/accounts/accounts.png)
