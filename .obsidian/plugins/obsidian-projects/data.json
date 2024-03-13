@@ -287,6 +287,40 @@
       ],
       "id": "35a52901-9777-4ae0-b91e-28e7cf6e0302",
       "name": "Ethereum"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Architecture",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "18af2656-fb7d-4d0b-beb1-81e53b7aa2cc",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "fd5a87f8-a42f-427d-9c94-d170bdadf7b2",
+      "name": "Architecture"
     }
   ],
   "archives": [],
