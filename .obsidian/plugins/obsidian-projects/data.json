@@ -321,6 +321,40 @@
       ],
       "id": "fd5a87f8-a42f-427d-9c94-d170bdadf7b2",
       "name": "Architecture"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Block Chain/Hyperledger Fabric",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "f9deb4ac-f65f-4d43-a70b-0dd3b221872f",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "bbe361d3-9307-4029-b8db-3d81490bdc59",
+      "name": "Hyperledger Fabric"
     }
   ],
   "archives": [],
