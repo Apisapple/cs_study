@@ -27,6 +27,8 @@ Policies:
 `Signature Policies`의 경우, `AND`,`OR`, `NOutOf` 등의 논리 조합을 지원합니다.
 ## ImplicitMeta Policies
 
+![Fabric Policy Hierarchy](https://hyperledger-fabric.readthedocs.io/en/latest/_images/FabricPolicyHierarchy-6.png)
+
 `ImplicitMeta Policies`는 `Signature policies`를 조금 더 세부적으로 설정하며 최종적으로 정의되는 정책입니다.
 `ImplicitMeta Policies`의 경우, `<ALL|ANY|MAJORITY> <sub_policy>` 형태의 문법을 사용합니다.
 
